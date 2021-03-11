@@ -1,6 +1,6 @@
 # Tailwind Cards
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/28bf5911-0906-4dec-91bc-e87a194596e9/deploy-status)](https://app.netlify.com/sites/modelx-tailwind/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d9d621c2-bace-4ca0-95e0-3ad4f38318cf/deploy-status)](https://app.netlify.com/sites/tailwind-cards/deploys)
 
 I used the [TailWind CSS Boilerplate](https://github.com/hasinhayder/tailwind-boilerplate) project for this. 
 

@@ -3,6 +3,10 @@ module.exports = {
   purge:['./*.html'],
   darkMode: false, // or 'media' or 'class'
   theme: {
+    fontFamily: {
+      display: ['Inter', 'system-ui', 'sans-serif'],
+      body: ['Inter', 'system-ui', 'sans-serif'],
+    },
     extend: {
       colors:{
         fuchsia:colors.fuchsia,

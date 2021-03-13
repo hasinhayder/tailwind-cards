@@ -88,6 +88,7 @@ module.exports = {
       height: ["group-hover", "hover"],
       padding: ["group-hover", "hover"],
       animation: ["group-hover", "hover"],
+      scale: ["group-hover", "hover"],
     },
   },
   plugins: [],

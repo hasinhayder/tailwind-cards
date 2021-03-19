@@ -13,6 +13,6 @@
     "autoprefixer": "^10.2.5",
     "path": "^0.12.7",
     "postcss": "^8.2.7",
-    "tailwindcss": "^2.0.3"
+    "tailwindcss": "^2.0.4"
   }
 }
